@@ -1,6 +1,11 @@
-Poseo sólidos conocimientos en administración y evaluación de soluciones tecnológicas, administración de servidores Linux / Cpanel / WHM / CyberPanel, así como implementación de proyectos de incursión, presencia e interacción en internet basados en HTML / CSS / SQL / Frameworks con tecnologías PHP / Python (Flash, Django).
-Discapacidad Visual 
+
 
 ![image](https://user-images.githubusercontent.com/29576337/211731189-9f8c863f-3538-4c53-87c8-6b299a5ab0e7.png)
 
-HTML5 CSS3 Sass Python JavaScript TypeScript Django Nodejs Angular React NPM GitHub Git SQL MySQL MongoDB Linux Ubuntu
+Poseo sólidos conocimientos en administración y evaluación de soluciones tecnológicas, administración de servidores Linux / Cpanel / WHM / CyberPanel, así como implementación de proyectos de incursión, presencia e interacción en internet basados en HTML / CSS / SQL / Frameworks con tecnologías PHP / Python (Flash, Django).
+Discapacidad Visual 
+
+Si deseas ponerte en contacto no dudes en escribirme al email o saludar a través de cualquiera de los enlaces a mis redes sociales. 
+
+![image](https://user-images.githubusercontent.com/29576337/211731523-c4cd54e0-b236-4ed6-86de-3ae4bde75757.png)
+
